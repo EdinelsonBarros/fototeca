@@ -1,3 +1,12 @@
+.cardConteiner{
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 10px;
+}
+.card{
+      size: 80%;
+}
 img{
       size: 60%;
 }
+
